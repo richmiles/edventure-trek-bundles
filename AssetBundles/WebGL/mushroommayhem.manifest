@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 1452751004
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c0f06a6e70fea356fbff250db64099f8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5be7e659d250186d572070c34e7d7142
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Scenes/MushroomMayhem/MushroomMayhem.unity
+Dependencies: []
